@@ -1,0 +1,13 @@
+transformers>=4.30.0
+torch
+tqdm
+pyarrow
+fastparquet
+datasets
+pandas
+numpy
+scikit-learn
+playwright
+readability-lxml
+justext
+pytest

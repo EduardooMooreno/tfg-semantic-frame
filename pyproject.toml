@@ -1,0 +1,26 @@
+[project]
+name = "lisbeth"
+version = "0.1.0"
+description = "Lisbeth: NLP Analysis System"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "pandas",
+    "playwright",
+    "readability-lxml",
+    "justext",
+    "transformers>=4.30.0",
+    "torch",
+    "tqdm",
+    "pyarrow",
+    "fastparquet",
+    "datasets",
+    "scikit-learn",
+    "numpy",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,5 @@
+variant,strategy,orthogonality_error,max_cosine
+baseline,penultimate,1.0,0.3784194042901511
+baseline,last4_concat,0.9999999999999998,0.3769493205089893
+dapt,penultimate,1.0,0.37634691119362584
+dapt,last4_concat,0.9999999999999999,0.3732619764562806
