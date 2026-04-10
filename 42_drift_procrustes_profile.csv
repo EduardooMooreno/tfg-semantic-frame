@@ -1,3 +1,0 @@
-variant,strategy,corr_drift_procrustes,mean_drift,mean_procrustes
-baseline,penultimate,0.9451868771518925,1.2786349537889017,2.2320302366508487
-dapt,penultimate,0.9096304233885845,1.6224155075805093,2.660042820227143
