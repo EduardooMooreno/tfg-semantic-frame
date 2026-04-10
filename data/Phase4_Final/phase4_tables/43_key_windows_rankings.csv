@@ -1,0 +1,17 @@
+,metric,variant,strategy,window,value,type
+0,drift,baseline,penultimate,2024-01-01,1.5060320178229991,absolute
+1,drift,baseline,penultimate,2023-11-01,1.312636215531634,absolute
+2,drift,baseline,penultimate,2023-12-01,1.0172366280120724,absolute
+3,drift,baseline,penultimate,2023-10-01,,absolute
+4,drift,baseline,penultimate,2024-01-01,0.48879538981092674,delta
+5,drift,baseline,penultimate,2023-12-01,0.29539958751956163,delta
+6,drift,baseline,penultimate,2023-10-01,,delta
+7,drift,baseline,penultimate,2023-11-01,,delta
+8,drift,dapt,penultimate,2024-01-01,1.9958471538041749,absolute
+9,drift,dapt,penultimate,2023-11-01,1.7047197476648646,absolute
+10,drift,dapt,penultimate,2023-12-01,1.1666796212724886,absolute
+11,drift,dapt,penultimate,2023-10-01,,absolute
+12,drift,dapt,penultimate,2024-01-01,0.8291675325316863,delta
+13,drift,dapt,penultimate,2023-12-01,0.538040126392376,delta
+14,drift,dapt,penultimate,2023-10-01,,delta
+15,drift,dapt,penultimate,2023-11-01,,delta

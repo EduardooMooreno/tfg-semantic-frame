@@ -1,0 +1,13 @@
+type,dim,variant,strategy,condition,window,val,extum
+subspace,violence_security,baseline,penultimate,raw,2023-11-01,0.6152063435304441,max
+subspace,humanitarian_civilian,baseline,penultimate,raw,2023-10-01,0.5459091990425126,max
+subspace,legitimacy_responsibility,baseline,penultimate,raw,2023-11-01,0.5136364067801593,max
+subspace,violence_security,dapt,penultimate,raw,2023-12-01,0.7479631060158584,max
+subspace,humanitarian_civilian,dapt,penultimate,raw,2023-12-01,0.6556417081661352,max
+subspace,legitimacy_responsibility,dapt,penultimate,raw,2023-12-01,0.7024573523991156,max
+subspace,violence_security,baseline,penultimate,corrected,2023-11-01,0.6152063435304443,max
+subspace,humanitarian_civilian,baseline,penultimate,corrected,2023-10-01,0.5459091990425127,max
+subspace,legitimacy_responsibility,baseline,penultimate,corrected,2023-11-01,0.5136364067801596,max
+subspace,violence_security,dapt,penultimate,corrected,2023-12-01,0.7479631060158585,max
+subspace,humanitarian_civilian,dapt,penultimate,corrected,2023-12-01,0.6556417081661351,max
+subspace,legitimacy_responsibility,dapt,penultimate,corrected,2023-12-01,0.7024573523991158,max
