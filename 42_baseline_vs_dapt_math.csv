@@ -1,5 +1,0 @@
-metric,strategy,mean_delta,wilcoxon_stat,p_value,significant
-k,penultimate,19.0,0.0,0.125,False
-entropy,penultimate,0.10868002224456297,0.0,0.125,False
-drift,penultimate,0.3437805537916075,0.0,0.25,False
-procrustes,penultimate,0.42801258357629407,0.0,0.25,False
