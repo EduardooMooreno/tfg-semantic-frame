@@ -1,0 +1,53 @@
+{
+  "violence_security": {
+    "description": "Dimensión sobre conflicto armado, acciones militares, ataque/defensa y seguridad.",
+    "anchors": [
+      { "keyword": "ataque", "sentence": "El ataque ocurrió durante la noche y fue confirmado por fuentes oficiales." },
+      { "keyword": "bombardeo", "sentence": "El bombardeo afectó a varias zonas y las autoridades informaron de daños." },
+      { "keyword": "ofensiva", "sentence": "La ofensiva se anunció como parte de una operación militar planificada." },
+      { "keyword": "misiles", "sentence": "Los misiles fueron interceptados según el comunicado del gobierno." },
+      { "keyword": "ejército", "sentence": "El ejército desplegó unidades adicionales en la frontera." },
+      { "keyword": "soldados", "sentence": "Los soldados patrullaron el área tras el incidente." },
+      { "keyword": "seguridad", "sentence": "La seguridad se reforzó en puntos estratégicos de la ciudad." },
+      { "keyword": "defensa", "sentence": "La defensa del territorio fue citada como objetivo principal." },
+      { "keyword": "frontera", "sentence": "La frontera permaneció cerrada durante varias horas." },
+      { "keyword": "operación", "sentence": "La operación comenzó al amanecer y continuó durante el día." },
+      { "keyword": "retaliación", "sentence": "La retaliación fue mencionada en la rueda de prensa posterior." },
+      { "keyword": "tregua", "sentence": "La tregua fue discutida por los mediadores internacionales." }
+    ]
+  },
+  "humanitarian_civilian": {
+    "description": "Dimensión sobre impacto civil, víctimas, desplazamiento, asistencia y crisis humanitaria.",
+    "anchors": [
+      { "keyword": "civiles", "sentence": "Los civiles buscaron refugio mientras continuaban los enfrentamientos." },
+      { "keyword": "víctimas", "sentence": "Las víctimas fueron atendidas por los servicios de emergencia." },
+      { "keyword": "heridos", "sentence": "Los heridos fueron trasladados al hospital más cercano." },
+      { "keyword": "hospital", "sentence": "El hospital recibió un aumento de pacientes durante la jornada." },
+      { "keyword": "refugiados", "sentence": "Los refugiados se concentraron en campamentos temporales." },
+      { "keyword": "desplazados", "sentence": "Los desplazados internos solicitaron ayuda para alimentos y agua." },
+      { "keyword": "ayuda", "sentence": "La ayuda humanitaria llegó a la zona a través de un corredor." },
+      { "keyword": "alimentos", "sentence": "Los alimentos se distribuyeron mediante organizaciones de asistencia." },
+      { "keyword": "medicinas", "sentence": "Las medicinas escasearon en varios centros de salud." },
+      { "keyword": "evacuación", "sentence": "La evacuación se realizó bajo supervisión de equipos médicos." },
+      { "keyword": "niños", "sentence": "Los niños fueron priorizados en la atención de emergencia." },
+      { "keyword": "destrucción", "sentence": "La destrucción de viviendas agravó la situación humanitaria." }
+    ]
+  },
+  "legitimacy_responsibility": {
+    "description": "Dimensión sobre legitimidad, derecho internacional, condena, responsabilidades y rendición de cuentas.",
+    "anchors": [
+      { "keyword": "legitimidad", "sentence": "La legitimidad de la medida fue cuestionada en el debate parlamentario." },
+      { "keyword": "responsabilidad", "sentence": "La responsabilidad del incidente fue atribuida a distintos actores." },
+      { "keyword": "condena", "sentence": "La condena internacional se expresó en declaraciones oficiales." },
+      { "keyword": "acusaciones", "sentence": "Las acusaciones fueron rechazadas por el portavoz gubernamental." },
+      { "keyword": "investigación", "sentence": "La investigación se abrió para esclarecer lo ocurrido." },
+      { "keyword": "rendición", "sentence": "La rendición de cuentas fue reclamada por organizaciones civiles." },
+      { "keyword": "sanciones", "sentence": "Las sanciones se discutieron en una reunión diplomática." },
+      { "keyword": "resolución", "sentence": "La resolución fue votada en una sesión extraordinaria." },
+      { "keyword": "legal", "sentence": "El marco legal fue citado como referencia por los abogados." },
+      { "keyword": "derecho", "sentence": "El derecho internacional fue mencionado en el comunicado oficial." },
+      { "keyword": "crímenes", "sentence": "Los crímenes fueron denunciados por observadores independientes." },
+      { "keyword": "justificación", "sentence": "La justificación de la decisión se explicó en una comparecencia pública." }
+    ]
+  }
+}
